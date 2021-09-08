@@ -1,0 +1,12 @@
+body {
+  background-image: url("../images/geometry2.png");
+}
+
+#index-page .icon-nest {
+  width: 8rem;
+  height: 8rem;
+  border-radius: 50%;
+}
+#index-page .icon-nest + p {
+  margin: auto;
+}
